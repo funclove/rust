@@ -1,0 +1,6 @@
+[package]
+name = "funclove"
+version = "0.0.1"
+authors = ["Rail Khusnutdinov <mail@rail-ka.ru>"]
+
+[dependencies]
