@@ -1,6 +1,8 @@
 [package]
 name = "funclove"
+description = "public API for func.love"
 version = "0.0.1"
 authors = ["Rail Khusnutdinov <mail@rail-ka.ru>"]
+license = "MIT"
 
 [dependencies]
